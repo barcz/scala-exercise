@@ -9,4 +9,4 @@ runMain main.Main
 
 my test data can be found in /testDir
 
-this solutio ignores case
+when indexing this solution ignores case
